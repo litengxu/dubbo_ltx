@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-interface" />
+        <module name="ltx_common" />
+        <module name="ltx_entity" />
+        <module name="ltx_mapper" />
+        <module name="ltx_service" />
+        <module name="ltx_user_api" />
+        <module name="ltx_web" />
+        <module name="ltxweb__service" />
+        <module name="ltxweb_background" />
+        <module name="springboot_consumer" />
+        <module name="springboot_provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot_provider" target="1.8" />
+      <module name="dubbo-interface" target="1.5" />
+      <module name="dubbo_interface" target="1.5" />
+      <module name="dubbo_ltx" target="1.5" />
+      <module name="ltx_basic" target="1.5" />
+      <module name="ltx_common" target="1.5" />
+      <module name="ltx_entity" target="1.5" />
+      <module name="ltx_mapper" target="1.8" />
+      <module name="ltx_product_api" target="1.5" />
+      <module name="ltx_service" target="1.5" />
+      <module name="ltx_user_api" target="1.5" />
+      <module name="ltx_web" target="1.5" />
+      <module name="ltxweb__service" target="1.8" />
+      <module name="ltxweb_background" target="1.8" />
+      <module name="ltxweb_service" target="1.8" />
+      <module name="springboot-provider" target="1.8" />
+      <module name="springboot_consumer" target="1.8" />
+      <module name="springboot_provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/boot_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ltx_basic/ltx_mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ltx_service/ltxweb__service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ltx_web/ltxweb_background" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_provider" charset="UTF-8" />
+  </component>
+</project>

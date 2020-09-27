@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" filepath="$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_ltx.iml" filepath="$PROJECT_DIR$/dubbo_ltx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_api/ltx_api.iml" filepath="$PROJECT_DIR$/ltx_api/ltx_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_basic/ltx_basic.iml" filepath="$PROJECT_DIR$/ltx_basic/ltx_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_basic/ltx_common/ltx_common.iml" filepath="$PROJECT_DIR$/ltx_basic/ltx_common/ltx_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_basic/ltx_entity/ltx_entity.iml" filepath="$PROJECT_DIR$/ltx_basic/ltx_entity/ltx_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_basic/ltx_mapper/ltx_mapper.iml" filepath="$PROJECT_DIR$/ltx_basic/ltx_mapper/ltx_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_api/ltx_product_api.iml" filepath="$PROJECT_DIR$/ltx_api/ltx_product_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_service/ltx_service.iml" filepath="$PROJECT_DIR$/ltx_service/ltx_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_api/ltx_user_api/ltx_user_api.iml" filepath="$PROJECT_DIR$/ltx_api/ltx_user_api/ltx_user_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_web/ltx_web.iml" filepath="$PROJECT_DIR$/ltx_web/ltx_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_service/ltxweb__service/ltxweb__service.iml" filepath="$PROJECT_DIR$/ltx_service/ltxweb__service/ltxweb__service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ltx_web/ltxweb_background/ltxweb_background.iml" filepath="$PROJECT_DIR$/ltx_web/ltxweb_background/ltxweb_background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_consumer/springboot_consumer.iml" filepath="$PROJECT_DIR$/springboot_consumer/springboot_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_provider/springboot_provider.iml" filepath="$PROJECT_DIR$/springboot_provider/springboot_provider.iml" />
+    </modules>
+  </component>
+</project>
